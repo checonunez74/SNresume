@@ -1,0 +1,26 @@
+{
+    "title": "Sergio Nunez",
+    "logo": "https://lh3.googleusercontent.com/99mAaA6DBLN9FB6etBqZOCqhmckexDFmxJn7p7yTmTRgJWao3HTs82g9SVzXMHJFDKVRnIPqInywbwpFEsD8dkdoTCM",
+    "social": {
+        "facebook": {
+            "visible": true,
+            "icon": "facebook",
+            "url": "https://wwww.facebook.com"
+        },
+        "twitter": {
+            "visible": true,
+            "icon": "twitter",
+            "url": "https://www.twitter.com"
+        },
+        "instagram": {
+            "visible": true,
+            "icon": "instagram",
+            "url": "https://www.instagram.com"
+        },
+        "linkedin": {
+            "visible": true,
+            "icon": "linkedin",
+            "url": "https://www.linkedin.com"
+        }
+    }
+}

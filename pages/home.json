@@ -1,0 +1,42 @@
+{
+    "img_background_hero": "https://lh3.googleusercontent.com/eNjnKHUvPvDc8yc6TeceDCFwn_zyw5JqekvjB2vWk2FfLd_9xD3BEPO3-CzvtPpnxyBI1hIEmQalv1FjI_39oYBfsQ=s1920",
+    "img_background_hero2": "https://lh3.googleusercontent.com/_CcZNOgryCz_zJAhDIHeOEFVpRCKTMkeW8aNik_JRUtHOeM5c9fO4Ob0pGlSLbscEPnBp59hwEgT4Zishe-WNpc-hQ=s1920",
+
+    "profile": {
+        "firstName": "Sergio",
+        "lastName": "Nunez",
+        "caption": "I am an iOS Developer",
+        "image": "https://lh3.googleusercontent.com/2_COfkYhY0rFjsnt0_ikoNIggdCm2uvDMs6tBuhXrasxBX4zdR4oyqZWatIszMaBkYGTl1sRtv7AIOcOEz8_4f7yqw=s400"
+        
+    },
+    "section1": {
+        "header": "Welcome!",
+        "subheader": "Learn more about me",
+        "greeting": "I am a ",
+        "positions": "Software Developer, iOS Developer, Web Designer, Graphic Designer",
+        "bio": "Hi! My name is Sergio Nunez. I am a Software Developer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional graphic designer/web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.",
+        "img_portrait": "https://lh3.googleusercontent.com/uumiV-6zhy0RN7JPT2s4u3AqyCJJaVz7zHKoFZueq1QvhPU69pNOzSNu57QMF5HNZToBX-Y5zH74Dces2pPm23x0",
+        "resume": {
+            "button": "Download Resume",
+            "url": "https://storage.turbo360.co/portfolio-website-hxoc6m/sergionunez.pdf"
+        }
+    },
+    "section2": {
+        "header": "My Skills",
+        "description": "I am an iOS developer responsible for the development and maintenance of applications aimed at a range of iOS devices including mobile phones and tablet computers. Mainly I work in the development of iOS applications as a front-end developer, and I do some of their integration with back-end services. I have experience working alongside other engineers and developers where we work on different layers of the infrastructure. Therefore, I have developed a good sense of commitment to collaborative problem solving. I enjoy sophisticated design, and the creation of quality products.", 
+        "skills": "iOS:80, Swift:90, Objective-C:70, Wordpress:80, Javascript:80, React:70, Adobe Suite:95, C++:80"
+    },
+    "section4": {
+        "iPad": "https://lh3.googleusercontent.com/eCUqMBuldGXP1rWvJYwf6nCSUUVWBip3STK-1dH0S3_C1G_7-bQkhbj8fhfUE864XvWhE4XxXbJ3Zuc4iongjE_ELAE",
+        "iOS": "https://lh3.googleusercontent.com/l_yKSQ9B4rPkPWqUUpQ-HCqlnrvfMhtR5b6A5VGOibfRWUIQ5a1SXN-0zoyU5jRatvrgGE40mNSl6wWwbqzRuEsnopY=s400",
+        "Development": "https://lh3.googleusercontent.com/cHY8Tg8wzyer8sPpLehz9eHbCL3GJdx9Q4HfpMI-RWGQM0Aq9IcqvlL2jLIAo30-KQl2o7iR8f3LVR88_KfexZk2sQ"
+    },
+    "section5": {
+        "img_small_1": "https://lh3.googleusercontent.com/mQYcVoR_F8fVLabH_Db7wNdO6ACo3Vv3SWkHZFpj73dL4W5i-8GSnTTKCXJEg2Q_k6fmcYb2L5eCzjDj66fUmt9X9w",
+        "img_big_1": "https://lh3.googleusercontent.com/nY2fpVwRvXpkeGLHo8px8uKRnpavAMuV2fxqRM7Fm74i32lDWOE-IJM-9guYgMm6BVnkHWteorqW3TOjhTuyOQbE4A=s1170",
+        "img_small_2": "https://lh3.googleusercontent.com/Q-9hh9i3VzSSMyylfzAMglaCbmxIuhUQto2FaYbuubg8EVfttyizLKg_HQYJDIzcdMi5q-kauWRLOv7pDsprUxhWOPQ",
+        "img_big_2": "https://lh3.googleusercontent.com/JirmgSJgiME_tGhl3ym8A7uCvT9IZDb7deCTLi_F7SHYO_9WClf7--lHfdcOkqCOLCDyMYJL8TZw_KApD6mm9B2lAA=s1170",
+        "img_small_3": "https://lh3.googleusercontent.com/-OU7jSVPl0Mnz0fUMPYRSy408Ap4U3KSbywYNG0cC8VmjVWS_2VCuRVgDB5ORDW2NezsYpaMpZzuDP5p6yDg_m4W-Q",
+        "img_big_3": "https://lh3.googleusercontent.com/FouuwXBUKYSicjKryVy6NtIJgS58W-fAvB5b0YhQqW7bP7S_HwNicFtTJz1QmiXA79iUWJDnYGbVk0Ov_MSy56v91A=s1170"
+    } 
+}
