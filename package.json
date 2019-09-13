@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "express": "latest",
-    "nodemon": "^1.17.1",
+    "nodemon": "^1.19.1",
     "rimraf": "^2.6.2"
   },
   "deploy": [
